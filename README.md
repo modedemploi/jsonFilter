@@ -1,3 +1,8 @@
+# :warning: Deprecated repository:
+- for latest version go to https://github.com/malko/mongofilter
+- or simply ```npm install mongofilter```
+- or simply ```bower install mongofilter```
+
 # jsonFilter
 
 Filtering elements in collection based on json filters with a mongoQuery like syntax
